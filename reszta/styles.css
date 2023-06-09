@@ -70,7 +70,7 @@ body {
   padding: 10px;
   height: 85%;
   margin-bottom: 20px;
-  background-color: #202325;
+  background-color: #404549;
   color: gray;
 }
 
@@ -85,7 +85,6 @@ body {
   margin-bottom: 5px;
   color: white;
   text-decoration:none;
-  target: "_blank";
 }
 
 .current-month {
