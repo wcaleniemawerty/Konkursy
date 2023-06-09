@@ -64,6 +64,14 @@ body {
   margin-bottom: 20px;
   background-color: #202325;
 }
+.daygray {
+  text-align: center;
+  padding: 10px;
+  height: 85%;
+  margin-bottom: 20px;
+  background-color: #202325;
+  color: gray;
+}
 
 .messages {
   margin-top: 5px;
