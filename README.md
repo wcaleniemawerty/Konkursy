@@ -1,8 +1,7 @@
-
 # Konkursy
 
 Strona na której jest lista ciekawych konkursów które odbędą się w roku szkolnym 2023/2024
-
+Jest ona dostępna pod adresem: [mawerty.github.io/Konkursy](https://mawerty.github.io/Konkursy/)
 ## Jak dodać konkurs?
 
 Jeśli nie ogarniasz jak działa html i github to możesz do mnie napisać na discordzie mawerty#2375 z linkiem do konkursu i dodam go.
